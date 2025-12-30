@@ -45,12 +45,12 @@ This portfolio highlights my ability to take a dataset from **raw data to action
 ---
 
 ## 📂 Repository Structure
-📁 notebooks # Jupyter notebooks for each ML project
-📁 data # Raw and processed datasets
-📁 models # Saved trained ML models (.pkl / .joblib)
-📁 results # Plots, charts, confusion matrices, evaluation reports
-📄 README.md # Project documentation
-📄 requirements.txt # Required Python libraries
+📁 data           # Raw and processed datasets
+📁 notebooks      # Jupyter notebooks for ML projects (EDA, supervised & unsupervised models)
+📁 models         # Saved trained ML models (.pkl / .joblib)
+📁 results        # Plots, charts, confusion matrices, evaluation reports
+📄 README.md      # Project documentation and instructions
+📄 requirements.txt # Python libraries required to run all projects
 
 ---
 
