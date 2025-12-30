@@ -1,0 +1,47 @@
+# Data manipulation & analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+plotly-express
+
+# Statistical analysis & hypothesis testing
+scipy
+statsmodels
+
+# Machine Learning (Supervised & Unsupervised)
+scikit-learn
+imbalanced-learn
+
+# Feature engineering & preprocessing
+category_encoders
+
+# Model saving/loading
+pickle
+joblib
+
+# Jupyter Notebook
+jupyter
+notebook
+ipython
+
+# Utilities
+tqdm
+
+# Deep Learning / Neural Networks
+tensorflow
+keras
+torch
+torchvision
+
+# NLP / Text Processing
+nltk
+spacy
+gensim
+transformers
+
+# Optional: Text preprocessing and embeddings
+sentence-transformers
